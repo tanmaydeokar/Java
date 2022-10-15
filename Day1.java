@@ -71,6 +71,16 @@
         i++;
 
       }while(i<=n);
+      
+      
+      //Sum of n natural Number 
+      int sum=0;
+      int t =sc.nextInt();
+      for(int w=0;w<=t;w++){
+          sum=sum+w;
+
+      }
+      System.out.println("Sum of natural number is : "+sum);   
         
         
     }
