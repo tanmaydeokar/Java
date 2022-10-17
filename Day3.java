@@ -1,6 +1,6 @@
 import java.util.*;
 //import java.lang.Math; //FOR RAISED TO POWER
-public class day3{
+public class Day3{
 
 
    //Functions in java
